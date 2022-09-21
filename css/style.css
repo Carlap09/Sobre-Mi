@@ -1,0 +1,175 @@
+*{
+    margin:0;
+    font-family: 'Roboto', sans-serif;
+    color: #000033;
+
+}
+
+.mat-card{
+    border-radius:32px;
+    margin: 20px 10px;
+    padding: 20px;
+    border-color: #022465;
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex;
+}
+
+.encabezado{
+    background-color:#022465;
+}
+
+.encabezado__img{
+    width: 125px;
+
+}
+.encabezado__imginti{
+    width: 220px;
+}
+
+.encabezado__redes{
+    float: right;
+    margin-top: 10px;
+    margin-right: 5px;
+    
+}
+
+.encabezado__login{
+    float: right;
+    margin-top: 20px;
+    margin-right: 30px;
+
+}
+
+.encabezado__redes__icon{
+    width: 60px;
+    margin-top: 10px;
+    padding-right: 20px;
+
+}
+
+.encabezado__redes__icon:hover{
+    background: white;
+}
+.banner__img{
+    width: 100%;
+    height: 300px;
+    margin-top:10px;
+    border-radius: 32px 32px 0 0;
+
+}
+#imgperfil{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: -160px;
+    z-index: 1;
+    box-shadow: 3px 3px 3px #022278;
+}
+
+.fa {
+    display:flex;
+    color: #022278;
+    height: 2.4rem;
+    width: 2.4rem;
+    line-height: 2.4rem;
+    text-align:center;
+}
+
+.h1{
+    font-weight: bold;
+}
+
+
+.nombre{
+    
+    margin-top:2%;
+    text-align:center;
+    
+}
+
+.perfil__parrafo{
+    font-size: 20px;
+    margin: 8px;
+    margin-left: 30px;
+    text-align: justify;
+    
+}
+
+.experiencia__ul{
+    text-decoration: none;
+    color:white;
+    margin: auto;
+    left: 0;
+    
+}
+
+
+
+.row{
+    padding: 20px;
+}
+
+.contenedor{
+    width: auto;
+    display: grid;
+}
+
+
+.imgproyect{
+    box-shadow: 10px 10px 30px #000033;
+    border-radius: 50%;
+}
+
+#imgperfil.img-fluid.imgproyect{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 16px;
+    box-shadow: 1px 30px 30px #000033;
+    display: block;
+
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:33% 33% 33%;
+    text-align: center;
+    border-radius:20px;
+}
+h2{
+    color:#ffff; 
+    padding:10px;
+    background:url(https://i.ibb.co/xLyQjGV/Pngtree-technological-background-vector-illustration-matrix-1245505.jpg)
+}
+
+
+
+
+.footer{
+    
+    background: #000033;
+    justify-content: center;
+    width: 100%;
+    height: 10%;
+    
+  }
+  .footer p{
+    
+    text-align: center;
+  }
+
+  .footer  h5{
+    text-align: center;
+  }
+
+  hr{
+    border-color: #d2a391;
+    margin: 3rem 0;
+}
+
+  
+
+
+
+
+
